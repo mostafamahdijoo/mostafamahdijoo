@@ -2,7 +2,7 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/mostafa-mahdijoo-238a0052">
+<a href="https://www.linkedin.com/in/mostafa-mahdijoo">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:mostafa.mahdijoo@gmail.com">
